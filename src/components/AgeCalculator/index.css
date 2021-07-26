@@ -1,0 +1,24 @@
+.bg {
+  background-image: linear-gradient(to left, #9708cc, #43cbff);
+  padding: 20px;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  margin-left: 80px;
+  margin-right: 80px;
+  width: 700px;
+}
+.heading {
+  color: #171f46;
+}
+.button {
+  background-image: linear-gradient(to left, #9708cc, #43cbff);
+  border: 0px;
+  padding: 20px;
+  color: #ffffff;
+}
